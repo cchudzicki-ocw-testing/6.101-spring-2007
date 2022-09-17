@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains additional handouts given to students in order
+  to gain a deeper understanding of concepts discussed in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

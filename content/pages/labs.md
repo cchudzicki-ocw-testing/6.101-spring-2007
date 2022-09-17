@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on laboratory assignments, laboratory
+  guidelines, and lab kits.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
